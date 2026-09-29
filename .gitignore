@@ -1,0 +1,33 @@
+# Dependencies
+/vendor/
+/node_modules/
+
+# Environment
+.env
+.env.backup
+.env.local
+
+# Logs
+*.log
+
+# Cache
+*.cache
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# PHP
+.phpunit.result.cache
+
+# Generated files
+/build/
+/dist/
